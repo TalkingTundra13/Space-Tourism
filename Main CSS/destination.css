@@ -308,6 +308,7 @@ a {
 @media screen and (max-height: 1368px) and (max-width: 590px) {
   /* line 200, ../Projects/Space-Tourism/Main SCSS/destination.scss */
   .section-activated .m-actived .moons-infos p .br-active {
+    color: #FFFFFF;
     display: none;
   }
 }
